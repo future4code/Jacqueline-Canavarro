@@ -119,8 +119,9 @@ div:last-child {
 }
 
 table {
-    width: 60%;
+    width: 80%;
     margin: auto;
+    font-family: 'Roboto', sans-serif ;
 }
 
 
