@@ -120,12 +120,21 @@ table {
     margin: auto;
 }
 
+
 td button {
     background-color: #fadf63;
     width: 150px;
     height: 30px;
     border-radius: 5px;
-    color: black;
+    color: black;    
+}
+
+td button:hover {
+    background-color: rgb(107, 107, 20);
+}    
+
+td button:active {
+    color: white;
 }
 
 .container-do-search {
