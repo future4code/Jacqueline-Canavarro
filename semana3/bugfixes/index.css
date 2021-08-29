@@ -75,7 +75,15 @@ div img {
 #container-de-descricao {
     background-color: #2274a5;
     color: white;
-    padding-top: 20px ;
+    padding-top: 20px;
+}
+
+#container-de-descricao2 {
+    background-color: #2274a5;
+    color: white;
+    padding-top: 20px;
+    text-align: center;
+    display: inline;
 }
 
 #container-de-descricao>ol {
@@ -99,6 +107,7 @@ div img {
     justify-content: center;
     align-items: center;  
 }
+
 
 
 /**
