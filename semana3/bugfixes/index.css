@@ -7,6 +7,7 @@
 * {
     margin: 0;
     padding: 0;
+    
 }
 
 h2 {
@@ -33,7 +34,7 @@ img {
 }
 
 div>p:first-child {
-    display: inline;
+    display: inline
 }
 
 
@@ -45,6 +46,7 @@ div>p:first-child {
     border-radius: 5px;
     font-size: 20px;
     color: white;
+    margin-top: 50px;
 
 }
 
@@ -53,19 +55,27 @@ div>p:first-child {
 }
 
 .container {
-    height: 500px;
+    height: 300px;
+    background-color: #2274a5;
+    color: white;
 
 }
+
+.container2 {
+    height: 300px;
+    font-size: 50px;
+    background-color: #beb4b4;
+    padding-top: 0px;
+    margin-bottom: 0px;
+}
+
 
 .icone {
     height: 25px;
 }
 
-.container2 {
-    color: #c44f00;
-    font-size: 50px
-    
-}
+        
+
 
 /** 
   *
@@ -76,11 +86,26 @@ div>p:first-child {
 #container-de-descricao {
     background-color: #2274a5;
     color: white;
-    padding-top: 20px;
+    padding-top: 0px;
+    margin-bottom: 0px;
 }
 
-.p {
+#container-de-descricao2 {
+    height: 400px;
+    font-size: 50px;
+    background-color: #b3afb0;
+    padding-top: 0px;
+    margin-bottom: 0px;  
+    font-family: sans-serif;
+    
+}
+
+.p {  
     text-align: center;
+    color: rgb(192, 98, 43);
+    
+    
+    
 }
 
 #container-de-descricao>ol {
