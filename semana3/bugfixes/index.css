@@ -78,12 +78,8 @@ div img {
     padding-top: 20px;
 }
 
-#container-de-descricao2 {
-    background-color: #2274a5;
-    color: white;
-    padding-top: 20px;
+.p {
     text-align: center;
-    display: inline;
 }
 
 #container-de-descricao>ol {
@@ -123,6 +119,7 @@ div:last-child {
 
 table {
     width: 60%;
+    margin: auto;
 }
 
 td button {
