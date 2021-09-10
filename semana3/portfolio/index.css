@@ -1,0 +1,139 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#nav {
+    width: 100%;
+
+    display: flex;
+
+    position: sticky;
+
+    background-color: rgb(55, 55, 58);
+
+    z-index: 99;
+
+    padding: 20px;
+
+}
+
+.nava {
+
+    color: #fff;
+
+    margin: auto 20px auto 40px;
+
+    text-decoration: none;
+
+    font-weight: bold;
+
+}
+
+.navli {
+
+   
+    float: left;
+
+    font-family: Arial, Helvetica, sans-serif;
+
+    color: darkgray;
+
+    font-size: small;
+
+    list-style: none;
+
+    margin-left: 60px;
+
+}
+
+.div {
+    padding-top: 25px;
+}
+
+.h1 {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 50px;
+}
+
+.h2 {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 10px;
+    font-size: smaller;
+}
+
+.img {
+  text-align: center;
+  padding-top: 20px;
+ 
+}
+
+.psobre {
+
+ text-align: center;
+ padding-top: 20px;
+ font-family: Arial, Helvetica, sans-serif;
+ margin-left: 5%;
+ margin-right: 5%;
+}
+
+.imgsobre {
+    text-align: center;
+    padding-top: 20px;
+
+}
+
+.ol {
+    padding-top: 7px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.pexperiencias {
+text-align: center;
+ padding-top: 20px;
+ font-family: Arial, Helvetica, sans-serif;
+ margin-left: 5%;
+ margin-right: 5%;
+ font-size: 32px;
+ 
+}
+.habilidades {
+    display: inline-flex;
+    padding-top: 5px;
+    margin-top: 15px;
+    text-align: center;
+    margin-left: 42%;
+    background-color: grey
+
+    
+    
+    
+}
+
+.habilidadesdois {
+    display: inline-flex;
+    padding-top: 5px;
+    margin-top: 15px;
+    text-align: center;
+    margin-left: 44%;
+    background-color: grey   
+    
+}
+
+.button {
+    margin-top: 80px;
+    padding: 25px;
+    text-align: center;
+    border-radius: 15px
+    
+    
+}
+
+.form {
+    margin-top: 30px;
+    text-align: center;
+
+}
