@@ -1,0 +1,8 @@
+.minicard-container {
+    display: flex;
+    border: 1px solid black;
+    flex-direction: column;
+    padding: 25px;
+    
+
+}
